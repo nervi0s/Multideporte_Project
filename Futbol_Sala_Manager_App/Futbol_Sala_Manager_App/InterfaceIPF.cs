@@ -193,7 +193,7 @@ namespace Futbol_Sala_Manager_App
         //    // Escapa los caracteres '\'
         //    path = path.Replace(@"\", @"\\");
 
-        //    //Envia("itemset('BadgesPath', 'MAP_STRING_PAR', '" + path + "/')");
+        //    //Envia("itemset('<Graphics>BadgesPath', 'MAP_STRING_PAR', '" + path + "/')");
         //}
 
         // Establece los goles que ha marcado un equipo
@@ -201,11 +201,11 @@ namespace Futbol_Sala_Manager_App
         {
             if (local)
             {
-                Envia("itemset('MAPS_INICIALES/GolesLocal','MAP_STRING_PAR','" + goles + "')");
+                Envia("itemset('<Graphics>MAPS_INICIALES/GolesLocal','MAP_STRING_PAR','" + goles + "')");
             }
             else
             {
-                Envia("itemset('MAPS_INICIALES/GolesVisitante','MAP_STRING_PAR','" + goles + "')");
+                Envia("itemset('<Graphics>MAPS_INICIALES/GolesVisitante','MAP_STRING_PAR','" + goles + "')");
             }
         }
 

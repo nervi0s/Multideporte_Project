@@ -483,7 +483,7 @@ namespace Futbol_Sala_Manager_App
         {
             for (int i = 0; i < _numipf; i++)
             {
-                _ipf[i].Envia("itemset('CRONOMETRO/CRONO','MAP_STRING_PAR','" + minutos.ToString("00") + ":" + segundos.ToString("00") + "')");
+                _ipf[i].Envia("itemset('<Graphics>CRONOMETRO/CRONO','MAP_STRING_PAR','" + minutos.ToString("00") + ":" + segundos.ToString("00") + "')");
             }
         }
 
@@ -491,9 +491,9 @@ namespace Futbol_Sala_Manager_App
         {
             for (int i = 0; i < _numipf; i++)
             {
-                _ipf[i].Envia("itemset('CRONOMETRO/CRONO','MAP_STRING_PAR','" + minutos.ToString("00") + ":" + segundos.ToString("00") + "')");
-                _ipf[i].Envia("itemset('CRONOMETRO/Parte','MAP_STRING_PAR','" + parte + "')");
-                _ipf[i].Envia("itemset('CRONOMETRO/ParteAbr','MAP_STRING_PAR','" + parteAbr + "')");
+                _ipf[i].Envia("itemset('<Graphics>CRONOMETRO/CRONO','MAP_STRING_PAR','" + minutos.ToString("00") + ":" + segundos.ToString("00") + "')");
+                _ipf[i].Envia("itemset('<Graphics>CRONOMETRO/Parte','MAP_STRING_PAR','" + parte + "')");
+                _ipf[i].Envia("itemset('<Graphics>CRONOMETRO/ParteAbr','MAP_STRING_PAR','" + parteAbr + "')");
             }
         }
 
@@ -502,7 +502,7 @@ namespace Futbol_Sala_Manager_App
             int estado = _play ? 1 : 0;
             //for (int i = 0; i < _numipf; i++)
             //{
-            //    _ipf[i].Envia("itemset('CRONOMETRO/Active','MAP_INT_PAR'," + estado + ")");
+            //    _ipf[i].Envia("itemset('<Graphics>CRONOMETRO/Active','MAP_INT_PAR'," + estado + ")");
             //}
         }
 
@@ -510,28 +510,28 @@ namespace Futbol_Sala_Manager_App
         {
             for (int i = 0; i < _numipf; i++)
             {
-                _ipf[i].Envia("itemset('CRONOMETRO/CRONO','MAP_STRING_PAR','" + time + "')");
+                _ipf[i].Envia("itemset('<Graphics>CRONOMETRO/CRONO','MAP_STRING_PAR','" + time + "')");
             }
         }
         public void configCronoInfoParteWithOcr(string parte, int parteAbr)
         {
             for (int i = 0; i < _numipf; i++)
             {
-                _ipf[i].Envia("itemset('CRONOMETRO/Parte','MAP_STRING_PAR','" + parte + "')");
-                _ipf[i].Envia("itemset('CRONOMETRO/ParteAbr','MAP_STRING_PAR','" + parteAbr + "')");
+                _ipf[i].Envia("itemset('<Graphics>CRONOMETRO/Parte','MAP_STRING_PAR','" + parte + "')");
+                _ipf[i].Envia("itemset('<Graphics>CRONOMETRO/ParteAbr','MAP_STRING_PAR','" + parteAbr + "')");
             }
         }
 
         //public void playCronoIpf()
         //{
         //    for (int i = 0; i < _numipf;i++ )
-        //        _ipf[i].Envia("itemset('CRONOMETRO/PlayP','EXP_EXE')");
+        //        _ipf[i].Envia("itemset('<Graphics>CRONOMETRO/PlayP','EXP_EXE')");
 
         //}
         //private void stopCronoIpf()
         //{
         //    for (int i = 0; i < _numipf; i++)
-        //        _ipf[i].Envia("itemset('CRONOMETRO/StopP','EXP_EXE')");
+        //        _ipf[i].Envia("itemset('<Graphics>CRONOMETRO/StopP','EXP_EXE')");
         //}
 
         /**
@@ -544,7 +544,7 @@ namespace Futbol_Sala_Manager_App
                 for (int i = 0; i < _numipf; i++)
                 {
                     if (Program.EstaActivado(i))
-                        _ipf[i].Envia("itemset('CRONOMETRO/CronoIN','EXP_EXE')");
+                        _ipf[i].Envia("itemset('<Graphics>CRONOMETRO/CronoIN','EXP_EXE')");
                 }
             }
             else
@@ -559,7 +559,7 @@ namespace Futbol_Sala_Manager_App
             for (int i = 0; i < _numipf; i++)
             {
                 if (Program.EstaActivado(i))
-                    _ipf[i].Envia("itemset('CRONOMETRO/CronoOUT','EXP_EXE')");
+                    _ipf[i].Envia("itemset('<Graphics>CRONOMETRO/CronoOUT','EXP_EXE')");
             }
         }
     }

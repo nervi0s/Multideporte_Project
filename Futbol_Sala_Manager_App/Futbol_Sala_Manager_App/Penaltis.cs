@@ -168,7 +168,7 @@ namespace Futbol_Sala_Manager_App
                 {
                     if (Program.EstaActivado(i))
                         _ipfs[i].Envia("PenaltiesIN()");
-                        //_ipfs[i].Envia("itemset('MarcadorPenalties/PenaltiesIN','EXP_EXE')");
+                    //_ipfs[i].Envia("itemset('<Graphics>MarcadorPenalties/PenaltiesIN','EXP_EXE')");
                 }
             }
             else
@@ -177,7 +177,7 @@ namespace Futbol_Sala_Manager_App
                 {
                     if (Program.EstaActivado(i))
                         _ipfs[i].Envia("PenaltiesOUT()");
-                        //_ipfs[i].Envia("itemset('MarcadorPenalties/PenaltiesOUT','EXP_EXE')");
+                    //_ipfs[i].Envia("itemset('<Graphics>MarcadorPenalties/PenaltiesOUT','EXP_EXE')");
                 }
             }
         }
