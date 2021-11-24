@@ -99,3 +99,36 @@ C:\Users\David\Desktop\Manager App\Futbol_Manager_App\Futbol_Manager_App\obj\Deb
 C:\Users\David\Desktop\Manager App\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.csproj.CopyComplete
 C:\Users\David\Desktop\Manager App\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.exe
 C:\Users\David\Desktop\Manager App\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.pdb
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\bin\Debug\Futbol_Manager_App.exe.config
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\bin\Debug\Futbol_Manager_App.exe
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\bin\Debug\Futbol_Manager_App.pdb
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\bin\Debug\System.Data.SQLite.dll
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.EndToEndForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.ExchangeForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.GroupStandingForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.InfoCrawlerForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.PitchConditionsForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.PrematchForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.CountdownForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.MainForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Interfaz.WeatherForm.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.exe
+C:\Users\David\Desktop\Multideporte_Project\Futbol_Manager_App\Futbol_Manager_App\obj\Debug\Futbol_Manager_App.pdb

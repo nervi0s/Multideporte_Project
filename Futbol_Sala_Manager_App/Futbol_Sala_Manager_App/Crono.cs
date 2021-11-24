@@ -364,7 +364,7 @@ namespace Futbol_Sala_Manager_App
             //    return 0;
             return parte;
         }
-
+        static bool enter;
         // Incremente el cronómetro cada segundo
         private void onTimedEvent(object source, ElapsedEventArgs e)
         {
@@ -381,9 +381,20 @@ namespace Futbol_Sala_Manager_App
             {
                 if (!Ocr.decimas_showed) // En caso de que haya décimas en videomarcador
                 {
+                    enter = true;
                     _momento._cadena_minuto = Ocr.minute;
                     _momento._cadena_segundo = Ocr.second;
                 }
+                else
+                {
+                    if (enter)
+                    {
+                        enter = false;
+                        _momento._cadena_minuto -= 1;
+                        _momento._cadena_segundo -= 1;
+                    }
+                }
+                Console.WriteLine(_momento._cadena_minuto);
             }
             else
             {

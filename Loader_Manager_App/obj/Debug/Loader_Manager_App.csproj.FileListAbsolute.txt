@@ -309,3 +309,42 @@ C:\Users\David\Desktop\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_A
 C:\Users\David\Desktop\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CopyComplete
 C:\Users\David\Desktop\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe
 C:\Users\David\Desktop\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.pdb
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe.config
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Loader_Manager_App.pdb
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Text.Json.dll
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.pdb
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe.config
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Futbol_Manager_App.pdb
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe.config
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Text.Json.xml
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe.config
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\obj\Debug\Loader_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe
+C:\Users\David\Desktop\Multideporte_Project\Loader_Manager_App\obj\Debug\Loader_Manager_App.pdb
