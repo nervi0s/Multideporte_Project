@@ -1,0 +1,112 @@
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\Loader_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\Loader_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\Loader_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\Balonmano Setup App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\EntityFramework.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\Futbol_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\System.Data.SQLite.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\Balonmano Setup App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\Balonmano Setup App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\Futbol_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\bin\Debug\Futbol_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\obj\Debug\Loader_Setup_App.csprojAssemblyReference.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\obj\Debug\Loader_Setup_App.Properties.Resources.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\obj\Debug\Loader_Setup_App.csproj.GenerateResource.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\obj\Debug\Loader_Setup_App.csproj.CopyComplete
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\obj\Debug\Loader_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Loader_Setup_App\obj\Debug\Loader_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.Properties.Resources.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.csproj.GenerateResource.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\bin\Debug\Loader_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\bin\Debug\Loader_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\bin\Debug\Loader_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\bin\Debug\Balonmano Setup App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\bin\Debug\EntityFramework.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\bin\Debug\System.Data.SQLite.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\bin\Debug\Balonmano Setup App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\bin\Debug\Balonmano Setup App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.csproj.CopyComplete
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.csprojAssemblyReference.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\Loader_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\Loader_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\Loader_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\Balonmano Setup App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\EntityFramework.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\Futbol_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\System.Data.SQLite.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\Balonmano Setup App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\Balonmano Setup App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\Futbol_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\bin\Debug\Futbol_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\obj\Debug\Loader_Setup_App.csprojAssemblyReference.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\obj\Debug\Loader_Setup_App.Properties.Resources.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\obj\Debug\Loader_Setup_App.csproj.GenerateResource.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\obj\Debug\Loader_Setup_App.csproj.CopyComplete
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\obj\Debug\Loader_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App backup herencia NO funciona\Loader_Setup_App\obj\Debug\Loader_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\Loader_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\Loader_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\Loader_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\Balonmano Setup App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\EntityFramework.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\Futbol_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\System.Data.SQLite.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\Balonmano Setup App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\Balonmano Setup App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\Futbol_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\bin\Debug\Futbol_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\obj\Debug\Loader_Setup_App.csprojAssemblyReference.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\obj\Debug\Loader_Setup_App.Properties.Resources.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\obj\Debug\Loader_Setup_App.csproj.GenerateResource.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\obj\Debug\Loader_Setup_App.csproj.CopyComplete
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\obj\Debug\Loader_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano - Futbol - Futsal\Setup App v3\Loader_Setup_App\obj\Debug\Loader_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\Loader_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\Loader_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\Loader_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\Balonmano Setup App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\EntityFramework.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\Futbol_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\System.Data.SQLite.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\Balonmano Setup App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\Balonmano Setup App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\Futbol_Sala_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\Futbol_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\bin\Debug\Futbol_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.csprojAssemblyReference.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.Properties.Resources.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.csproj.GenerateResource.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.csproj.CopyComplete
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Setup App\Loader_Setup_App\obj\Debug\Loader_Setup_App.pdb

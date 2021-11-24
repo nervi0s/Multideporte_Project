@@ -1,0 +1,23 @@
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\Loader.exe.config
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\Loader.exe
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\Loader.pdb
+C:\Users\cgomez\Desktop\Setup App\Loader\obj\Debug\Loader.csprojAssemblyReference.cache
+C:\Users\cgomez\Desktop\Setup App\Loader\obj\Debug\Loader.FormPpal.resources
+C:\Users\cgomez\Desktop\Setup App\Loader\obj\Debug\Loader.Properties.Resources.resources
+C:\Users\cgomez\Desktop\Setup App\Loader\obj\Debug\Loader.csproj.GenerateResource.cache
+C:\Users\cgomez\Desktop\Setup App\Loader\obj\Debug\Loader.exe
+C:\Users\cgomez\Desktop\Setup App\Loader\obj\Debug\Loader.pdb
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\Balonmano Setup App.exe
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\Futbol_Setup_App.exe
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\System.Data.SQLite.dll
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\Balonmano Setup App.pdb
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\Balonmano Setup App.exe.config
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\Futbol_Setup_App.pdb
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\Futbol_Setup_App.exe.config
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\System.Data.SQLite.xml
+C:\Users\cgomez\Desktop\Setup App\Loader\obj\Debug\Loader.csproj.CopyComplete
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\EntityFramework.dll
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\EntityFramework.xml
+C:\Users\cgomez\Desktop\Setup App\Loader\bin\Debug\EntityFramework.SqlServer.xml

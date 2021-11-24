@@ -1,0 +1,17 @@
+NONE;NONE
+Soliss FS Talavera;soliss_talavera.png
+Gran Canaria FS;gran_canaria.png
+Manzanares FS;manzanares.png
+Bisontes Castellón FS;bisontes_castellon.png
+Noia Portus Apostoli;noia_portus.png
+Axa Hita Port Elche CF;elche.png
+Colo Colo Zaragoza;colo_colo_zaragoza.png
+Software DELSOL Mengíbar;mengibar.png
+Pescados Rubén Burela;pescados_burela.png
+Dimurol S. Tenerife;salesianos_tenerife.png
+Córdoba CF Futsal;cordoba.png
+Barça Lassa B;barcelona.png
+Rivas Futsal;rivas.png
+ElPozo Ciudad de Murcia;el_pozo.png
+Santiago Futsal;santiago.png
+Real Betis Futsal;betis.png

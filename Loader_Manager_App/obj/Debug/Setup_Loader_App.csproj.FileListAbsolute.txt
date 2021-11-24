@@ -1,0 +1,20 @@
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\bin\Debug\Balonmano Setup App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\bin\Debug\EntityFramework.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\bin\Debug\Futbol_Setup_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\bin\Debug\System.Data.SQLite.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\bin\Debug\Balonmano Setup App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\bin\Debug\Balonmano Setup App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\bin\Debug\Futbol_Setup_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\bin\Debug\Futbol_Setup_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\obj\Debug\Setup_Loader_App.csprojAssemblyReference.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\obj\Debug\Setup_Loader_App.csproj.GenerateResource.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\obj\Debug\Setup_Loader_App.csproj.CopyComplete
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\obj\Debug\Setup_Loader_App.Properties.Resources.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\bin\Debug\Setup_Loader_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\bin\Debug\Setup_Loader_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\bin\Debug\Setup_Loader_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\obj\Debug\Setup_Loader_App.FormPpal.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\obj\Debug\Setup_Loader_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Setup Deportes\Setup_Loader_App\obj\Debug\Setup_Loader_App.pdb

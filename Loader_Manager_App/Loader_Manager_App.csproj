@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B7CF2702-4BF3-4805-B869-B16F2B8E6513}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Loader_Manager_App</RootNamespace>
+    <AssemblyName>Loader_Manager_App</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Loader_Manager_App.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Futbol_Setup_App\bin\Debug\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Futbol_Setup_App\bin\Debug\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.114.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Futbol_Setup_App\bin\Debug\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.114.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Futbol_Setup_App\bin\Debug\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\Licencia.cs" />
+    <Compile Include="FormPpal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPpal.Designer.cs">
+      <DependentUpon>FormPpal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormPpal.resx">
+      <DependentUpon>FormPpal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color_no_asociado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no-image-available.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_small_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_small_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Loader_Manager_App.ico" />
+    <Content Include="Resources\balonmano_no_licenciado.png" />
+    <Content Include="Resources\balonmano_on_virtualia.png" />
+    <Content Include="Resources\futbolsal_no licenciado.png" />
+    <Content Include="Resources\futbolsal_on_virtualia.png" />
+    <Content Include="Resources\futbol_no licenciado.png" />
+    <Content Include="Resources\futbol_on_virtualia.png" />
+    <Content Include="Resources\seleccion_off.png" />
+    <Content Include="Resources\seleccion_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Balonmano_Manager_App\Balonmano_Manager_App\Balonmano_Manager_App.csproj">
+      <Project>{d5367038-d91e-468e-ad74-ab31ca93da38}</Project>
+      <Name>Balonmano_Manager_App</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Futbol_Manager_App\Futbol_Manager_App\Futbol_Manager_App.csproj">
+      <Project>{6828df54-bc35-4c73-8180-dcfc354a7526}</Project>
+      <Name>Futbol_Manager_App</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App.csproj">
+      <Project>{c411f1d2-f9fe-4413-8e06-7af7567fe669}</Project>
+      <Name>Futbol_Sala_Manager_App</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

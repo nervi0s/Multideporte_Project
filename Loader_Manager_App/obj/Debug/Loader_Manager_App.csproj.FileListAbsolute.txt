@@ -1,0 +1,311 @@
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csprojAssemblyReference.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.Properties.Resources.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.GenerateResource.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CopyComplete
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Memory.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Memory.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe.config
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe.config
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.pdb
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.pdb
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe.config
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.pdb
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe.config
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe.config
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.pdb
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe.config
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.pdb
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.dll
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.pdb
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe.config
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.pdb
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe.config
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.xml
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe.config
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe
+C:\Users\David\Desktop\carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.pdb
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe.config
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.pdb
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.dll
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.pdb
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe.config
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.pdb
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe.config
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.xml
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe.config
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe
+C:\Users\David\Desktop\carol_last\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.pdb
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe.config
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.pdb
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.pdb
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe.config
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.pdb
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe.config
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe.config
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.pdb
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe.config
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.pdb
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Memory.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.pdb
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe.config
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.pdb
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe.config
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Memory.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.AssemblyReference.cache
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe.config
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.Properties.Resources.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.GenerateResource.cache
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CoreCompileInputs.cache
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CopyComplete
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.pdb
+F:\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe.config
+F:\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe
+F:\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.pdb
+F:\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe
+F:\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe
+F:\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.dll
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Memory.dll
+F:\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.dll
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.dll
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.pdb
+F:\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe.config
+F:\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.pdb
+F:\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe.config
+F:\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+F:\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.xml
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Memory.xml
+F:\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.xml
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.xml
+F:\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.AssemblyReference.cache
+F:\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe.config
+F:\Manager App\Loader_Manager_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+F:\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.Properties.Resources.resources
+F:\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.GenerateResource.cache
+F:\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CoreCompileInputs.cache
+F:\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CopyComplete
+F:\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe
+F:\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.pdb
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe.config
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.exe
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Loader_Manager_App.pdb
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.dll
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.pdb
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Balonmano_Manager_App.exe.config
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.pdb
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Futbol_Manager_App.exe.config
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Text.Json.xml
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe.config
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\obj\Debug\Loader_Setup_App.FormPpal.resources
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.exe
+C:\Users\David\Desktop\Manager App\Loader_Manager_App\obj\Debug\Loader_Manager_App.pdb

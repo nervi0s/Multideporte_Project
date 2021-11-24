@@ -1,0 +1,408 @@
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol\Futbol Manager App\Temporada 2018 - 19\2018-09-22\Launcher_Futbol\obj\Debug\Launcher_Futbol.csprojResolveAssemblyReference.cache
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Launcher_Futbol.csprojResolveAssemblyReference.cache
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndToEndForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExchangeForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PitchConditionsForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PrematchForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.CountdownForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.WeatherForm.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.Cache
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.CoreCompileInputs.cache
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+D:\_Propiedad\_Trabajo\2018-09-22\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PitchConditionsForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+C:\Users\Adrián\Desktop\2018-09-23\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EditEstadisticasForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GroupStandingForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.InfoCrawlerForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PitchConditionsForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.cache
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.CoreCompileInputs.cache
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_9_3_20\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EditEstadisticasForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GroupStandingForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.InfoCrawlerForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PitchConditionsForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.cache
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.CoreCompileInputs.cache
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_10_3_20\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Launcher_Futbol.csprojAssemblyReference.cache
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EditEstadisticasForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GroupStandingForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.InfoCrawlerForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PitchConditionsForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.cache
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.CoreCompileInputs.cache
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+C:\Users\virtualia\Desktop\Balonmano Marzo 2020\Balonmano_12_3_20\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Launcher_Futbol.csprojAssemblyReference.cache
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EditEstadisticasForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndToEndForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExchangeForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GroupStandingForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.InfoCrawlerForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.NextTransmissionForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PitchConditionsForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PrematchForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.CountdownForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ScheduleForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.WeatherForm.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.cache
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+E:\Balonmano\Manager App_2_6_20\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Launcher_Futbol.csprojAssemblyReference.cache
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EditEstadisticasForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GroupStandingForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.InfoCrawlerForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.NextTransmissionForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PitchConditionsForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ScheduleForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.cache
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.CoreCompileInputs.cache
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\Manager App_21_7_20\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EditEstadisticasForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GroupStandingForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.InfoCrawlerForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.NextTransmissionForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ScheduleForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.cache
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.CoreCompileInputs.cache
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Launcher_Futbol.csprojAssemblyReference.cache
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.Console_Conexions_Branch.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.Console_Conexions_Branch.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EditEstadisticasForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GroupStandingForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.InfoCrawlerForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.NextTransmissionForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PitchConditionsForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ScheduleForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.cache
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+C:\Users\cgomez\Desktop\Manager App 21_03_08_v3\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Launcher_Futbol.csprojAssemblyReference.cache
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.Console_Conexions_Branch.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EditEstadisticasForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GroupStandingForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.InfoCrawlerForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.NextTransmissionForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PitchConditionsForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ScheduleForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.cache
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v5_MERGE\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Launcher_Futbol.csprojAssemblyReference.cache
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.Console_Conexions_Branch.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EditEstadisticasForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GroupStandingForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.InfoCrawlerForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.NextTransmissionForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ScheduleForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.cache
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v6_CAROL\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Launcher_Futbol.csprojAssemblyReference.cache
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.Console_Conexions_Branch.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EditEstadisticasForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GroupStandingForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.InfoCrawlerForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.NextTransmissionForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ScheduleForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.cache
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_10_v8_MERGE\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Launcher_Futbol.csprojAssemblyReference.cache
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.Console_Conexions_Branch.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EditEstadisticasForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GroupStandingForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.InfoCrawlerForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.NextTransmissionForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ScheduleForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.cache
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+C:\Users\cgomez\Desktop\MANAGER BALONMANO\Manager App 2021_03_11_v12_MERGE\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+C:\Users\Luis Barreto\Desktop\Luis\BALONMANO\ACTUAL\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GolForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.Console_Conexions_Branch.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.EditEstadisticasForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GolForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.GroupStandingForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.InfoCrawlerForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.NextTransmissionForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ScheduleForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Launcher_Futbol\obj\Debug\Launcher_Futbol.csprojAssemblyReference.cache

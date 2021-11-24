@@ -1,0 +1,19 @@
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Plugin_Futbol.Properties.Resources.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\bin\Debug\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\bin\Debug\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Launcher_Futbol\obj\Debug\VFutbol_Launcher.exe
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Launcher_Futbol\obj\Debug\VFutbol_Launcher.pdb

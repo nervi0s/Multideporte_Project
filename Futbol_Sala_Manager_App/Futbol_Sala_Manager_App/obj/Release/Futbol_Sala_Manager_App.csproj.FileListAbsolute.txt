@@ -1,0 +1,1125 @@
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19 - copia\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-26\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-27\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2016 - 17\2017-01-28\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-01-20\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2017 - 18\2018-02-17\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+C:\Users\Adrián\Desktop\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+C:\Users\Adrián\Desktop\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+C:\Users\Adrián\Desktop\2018-10-01 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojAssemblyReference.cache
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+C:\Users\Noxfall Studios\Desktop\2018-10-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojAssemblyReference.cache
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+C:\Users\Noxfall Studios\Desktop\2018-10-04 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojAssemblyReference.cache
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+C:\Users\nayawinden\Downloads\2018-10-05 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojAssemblyReference.cache
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+C:\Users\nayawinden\Downloads\2018-10-12 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-10-12 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-10-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-10-18 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojAssemblyReference.cache
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-10-24 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31_Carol\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-10-31\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+C:\Users\Noxfall Esteban\Downloads\2018-11-02\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\Adrián\Desktop\2018-11-02 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\Adrián\Desktop\2018-11-06 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\Adrián\Desktop\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojAssemblyReference.cache
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-11-07 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojAssemblyReference.cache
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-11-08 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojAssemblyReference.cache
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-11-14 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojAssemblyReference.cache
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+D:\_Propiedad\Descargas\2018-11-22 futbol sala\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-11-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2018-12-21\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-01-29\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-25\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-02-27\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csprojResolveAssemblyReference.cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-24\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Software Deportes\Futbol Sala\Futbol Sala Manager App\Temporada 2018 - 19\2019-05-30\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Release\Futbol Sala Manager App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\bin\Release\Futbol Sala Manager App.exe.config

@@ -1,0 +1,4 @@
+SPN
+SEN
+ARG
+SWE

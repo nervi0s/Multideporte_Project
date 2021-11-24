@@ -1,0 +1,636 @@
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\bin\Debug\Futbol Sala Manager App.exe
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\bin\Debug\Futbol Sala Manager App.pdb
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.Cache
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol Sala Manager App.exe
+F:\Desarrollos\Deportes\Futbol Sala\Launcher\Temporada 2014 - 15\2015-08-19\Futbol_Sala_Manager_App\obj\Debug\Futbol Sala Manager App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\bin\Debug\Futbol Sala Manager App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\bin\Debug\Futbol Sala Manager App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EndOfMultiFlashInterviewForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EndToEndForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExchangeForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PostMultiFlashInterviewForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PrematchForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.CountdownForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.WeatherForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol Sala Manager App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\obj\Debug\Futbol Sala Manager App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Futbol Sala\Manager App\Futbol_Sala_Manager_App\bin\Debug\Futbol Sala Manager App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.AssemblyReference.cache
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+E:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb
+D:\CRONOS\slave\LAST\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\Pre_Release\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Documents\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.AssemblyReference.cache
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.dll
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.dll
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.dll
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.dll
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.xml
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.xml
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.xml
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.xml
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.dll
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.dll
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.dll
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.dll
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.xml
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.xml
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.xml
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.xml
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.AssemblyReference.cache
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+D:\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.dll
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.xml
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.dll
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.xml
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\carol_last\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.xml
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.AssemblyReference.cache
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+D:\MULTIDEPORTE_LAST\unido al ultimo de carol\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csprojAssemblyReference.cache
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.dll
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.dll
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.dll
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.dll
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.xml
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.xml
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.xml
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.xml
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.AssemblyReference.cache
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+F:\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe.config
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Futbol_Sala_Manager_App.pdb
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.dll
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.dll
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Text.Json.xml
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ClasificacionForm.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.EnfrentamientosForm.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PerfilJugadorForm.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.MainForm.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.RachasForm.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.exe
+C:\Users\David\Desktop\Manager App\Futbol_Sala_Manager_App\Futbol_Sala_Manager_App\obj\Debug\Futbol_Sala_Manager_App.pdb

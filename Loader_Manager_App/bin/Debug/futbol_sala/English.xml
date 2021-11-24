@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IdiomaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Coach>Coach</Coach>
+	<Coaches>Coach</Coaches>
+	<AssistantCoach>Assistant coach</AssistantCoach>
+	<Reserves>SUBSTITUTES</Reserves>
+	<Starters>STARTERS</Starters>
+	<Statistics>Statistics</Statistics>
+	<TimeOut>Time Out</TimeOut>
+	<PorteroJugador>GP</PorteroJugador>
+	<Division1>1st Division</Division1>
+	<Division2>2nd Division</Division2>
+
+	<Goal>Goal</Goal>
+	<Goals>Goal</Goals>
+	<GolesTiros>Shots efficiency</GolesTiros>
+	<GolesTirosEficiencia>Shots efficiency</GolesTirosEficiencia>
+	<P>(p)</P>
+	<OG>(og)</OG>
+	<Kick>Attempt</Kick>
+	<Kicks>Attempts</Kicks>
+	<KickOut>Attempt Off target</KickOut>
+	<KicksOut>Attempts Off target</KicksOut>
+	<KickintoGoal>Attempt On target</KickintoGoal>
+	<KicksintoGoal>Attempts On target</KicksintoGoal>
+	<IntoGoal>On target</IntoGoal>
+	<Corner>Corner</Corner>
+	<Corners>Corners</Corners>
+	<Foul>Team Foul</Foul>
+	<Fouls>Team Fouls</Fouls>	
+	<GoalkeeperSave>Goalkeeper Save</GoalkeeperSave>
+	<GoalkeeperSaves>Goalkeeper Saves</GoalkeeperSaves>
+	<Possesion>Possesion</Possesion>
+	
+	<FoulMatch>Fouls committed:</FoulMatch>
+	<FoulsMatch>Fouls committed:</FoulsMatch>
+	<GoalMatch>Goals:</GoalMatch>
+	<GoalsMatch>Goals:</GoalsMatch>
+	<GoalPenalty>Penalty in this Match</GoalPenalty>
+	<GoalsPenalty>Penalties in this Match</GoalsPenalty>
+	<ShotMatch>Total shots:</ShotMatch>
+	<ShotsMatch>Total shots:</ShotsMatch>
+	<TirosAPuerta>Shots:</TirosAPuerta>
+	<TirosTotales>Total shots:</TirosTotales>
+	<SaveMatch>Saves:</SaveMatch>
+	<SavesMatch>Saves:</SavesMatch>
+	<YellowCardMatch>Yellow cards:</YellowCardMatch>
+	<YellowCardsMatch>Yellow cards:</YellowCardsMatch>
+	<SecondYellowCard>Second Yellow Card</SecondYellowCard>
+	<RedCardMatch>Red cards:</RedCardMatch>
+	<RedCardsMatch>Red cards:</RedCardsMatch>	
+	<GoalPerMatch>Goals:</GoalPerMatch>
+	<GoalsPerMatch>Goals:</GoalsPerMatch>
+	<Matches>Matches</Matches>
+	<Match>Matches</Match>
+		
+	<YellowCard>Yellow Card</YellowCard>
+	<YellowCards>Yellow Cards</YellowCards>
+	<RedCard>Red Card</RedCard>
+	<RedCards>Red Cards</RedCards>
+	<MissesNextMatch>Misses Next Match</MissesNextMatch>
+
+	<Officials>Match Officials</Officials>
+	<Referee>Referee</Referee>
+	
+	<Parte1>1ST</Parte1>
+	<FinParte1>Half time</FinParte1>
+	<Parte2>2ND</Parte2>
+	<FinParte2>End second half</FinParte2>
+	<FinPartido>Full time</FinPartido>
+	<Prorroga1>1st half extra-time</Prorroga1>
+	<FinProrroga1>End first extra</FinProrroga1>
+	<Prorroga2>2nd half extra-time</Prorroga2>
+	<FinProrroga2>After extra time</FinProrroga2>
+	<Penaltis>Penalties</Penaltis>
+
+	<Goalkeeper>Goalkeeper</Goalkeeper>
+	<Cierre>Defender</Cierre>
+	<AlaCierre>Midfielder</AlaCierre>
+	<Ala>Midfielder</Ala>
+	<AlaPivot>Midfielder</AlaPivot>
+	<Pivot>Forward</Pivot>
+	<Universal>Universal</Universal>
+	<GK>(GK)</GK>
+	<CP>(C)</CP>
+</IdiomaData>

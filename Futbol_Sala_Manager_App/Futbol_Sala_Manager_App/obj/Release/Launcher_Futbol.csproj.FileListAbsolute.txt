@@ -1,0 +1,560 @@
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_19_04_12\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_24_04_12\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_17_10_12\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_18_10_12\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Codigo_22_10_12\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_22_01_13\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_23_01_13\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_23_01_13\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Documents and Settings\Carol\Mis documentos\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_06_02_13\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_15_03_13\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\Codigo_15_03_13\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-03-15\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-04-09\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\Carol\Documents\MIS DOCUMENTOS - VIRTUALIA\Desarrollos\V Futbol\Launcher\Temporada 2012 - 13\2013-04-09\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Desktop\2013-04-09\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07-14 _ SEGUNDA TARJETA AMARILLA Y GOLESPARTIDO\2014-07-14 _ SEGUNDA TARJETA AMARILLA Y GOLESPARTIDO\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07-14 _ SEGUNDA TARJETA AMARILLA Y GOLESPARTIDO\2014-07-14 _ SEGUNDA TARJETA AMARILLA Y GOLESPARTIDO\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-07_14 -  VARIOS IPFS + SegundaAmarilla y GolesPartidos\2014-07-14  VARIOS IPF\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_16_Varios IPF + Continuacion\2014-07-16  VARIOS IPF CONTINUACION\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d_ESTADISTICAS\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_17_DISPOSICION3d\2014_07_17_DISPOSICON_3D_y_+\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_18 ESTADISTICAS 2 y 3 Lineas\2014_07_18 ESTADISTICAS LINEAS\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_07_23_CAMBIOS_INFO\2014_07_23_CAMBIOS CON INFO\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-09-02_CambiosVariosSinPYP\2014-09-02_CambiosVariosSinPYP\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-06-CambioFrasesEstadisticas\2014-11-06-CambiosFrasesEstadisticas\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-11-12-CambioRotuloSuplentes\2014-11-12\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-27-11-ArregloCambios+RotulosInfoTiros\2014-27-11\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014_19_12_Alineaciones_Crawl\2014-19-12_Crawl\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndToEndForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExchangeForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.WeatherForm.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+F:\Desarrollos\V Futbol\Launcher\Temporada 2014 - 15\2014-12-19\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+I:\2014-12-19\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+I:\2014-12-19\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL LAUNCHER IPF\2014-12-19_Crawl_Licencia\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\19_ENERO_2015\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\20 ENERO 2015  FUTBOL SALA LAUNCHER\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\FUTBOL SALA LAUNCHER 2 FEBRERO 2015\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 4 FEBRERI 2015\FUTBOL SALA LAUNCHER 4 FEBRERO 2015\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Launcher_Futbol.csprojResolveAssemblyReference.cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ConfigForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EmergencyCaptionsForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndOfMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.EndToEndForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExchangeForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PostMultiFlashInterviewForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PrematchForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.CountdownForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.ExtraForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.LoaderForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanel.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PenaltisPanelItem.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.PlantillaForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.MainForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.SeleccionIpf.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.TiempoForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Interfaz.WeatherForm.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Plugin_Futbol.Properties.Resources.resources
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\obj\Release\Launcher_Futbol.csproj.GenerateResource.Cache
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\bin\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\FUTBOL SALA LAUNCHER 10 FEBRERO 2015\Launcher_Futbol\bin\Release\VFutbol_Launcher.pdb
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 11 FEBRERO 2015\FUTBOL SALA LAUNCHER 11 FEBRERO 2015\Launcher_Futbol\obj\Release\VFutbol_Launcher.exe
+C:\Users\graphic-1\Documents\Visual Studio 2010\Projects\FUTBOL SALA LAUNCHER IPF\FUTBOL SALA LAUNCHER 11 FEBRERO 2015\FUTBOL SALA LAUNCHER 11 FEBRERO 2015\Launcher_Futbol\obj\Release\VFutbol_Launcher.pdb

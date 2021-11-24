@@ -1,0 +1,17 @@
+NONE;NONE
+Barça Lassa;barcelona.png
+Palma Futsal;palma_futsal.png
+ElPozo Murcia;el_pozo.png
+Jaén Paraíso Interior;jaen_paraiso.png
+Aspil Vidal Ribera Navarra;ribera_navarra.png
+Levante UD FS;levante.png
+Movistar Inter;movistar_inter.png
+BeSoccer CD UMA Antequera;uma_antequera.png
+O Parrullo Ferrol;parrulo_ferrol.png
+Peñíscola RehabMedic;peniscola.png
+Jimbee Cartagena FS;jimbee_cartagena.png
+Industrias Santa Coloma;santa_coloma.png
+Viña Albali Valdepeñas;vina_albali_valdepenas.png
+CA Osasuna Magna;osasuna_magna.png
+Fútbol Emotion Zaragoza;emotion_zaragoza.png
+Naturpellet Segovia;naturpellet_segovia.png

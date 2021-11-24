@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D5367038-D91E-468E-AD74-AB31CA93DA38}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Balonmano_Manager_App</RootNamespace>
+    <AssemblyName>Balonmano_Manager_App</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>Balonmano_Setup_App.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>71F96376FE9D92C264C64F07B7BD237DB0A493BF</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Launcher_Futbol_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>false</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net40\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core">
+    </Reference>
+    <Reference Include="System.Data.SQLite, Version=1.0.114.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.114.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq">
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Beans\EmergencyCaptions.cs" />
+    <Compile Include="Beans\EndOfInterview.cs" />
+    <Compile Include="Beans\EndToEnd.cs" />
+    <Compile Include="Beans\Exchange.cs" />
+    <Compile Include="Beans\GroupStanding.cs" />
+    <Compile Include="Beans\Hightlights.cs" />
+    <Compile Include="Beans\InfoCrawler.cs" />
+    <Compile Include="Beans\JugadorComparerDorsal.cs" />
+    <Compile Include="Beans\Localizador.cs" />
+    <Compile Include="Beans\NextTransmittion.cs" />
+    <Compile Include="Beans\PostInterview.cs" />
+    <Compile Include="Comandos\AccesoBD\IAccesoBD.cs" />
+    <Compile Include="Comandos\AccesoBD\AccessData.cs" />
+    <Compile Include="Beans\Arbitro.cs" />
+    <Compile Include="Beans\Prematch.cs" />
+    <Compile Include="Beans\Countdown.cs" />
+    <Compile Include="Beans\Encuentro.cs" />
+    <Compile Include="Beans\JugadorComparerLineUp.cs" />
+    <Compile Include="Beans\Equipo.cs" />
+    <Compile Include="Beans\Jugador.cs" />
+    <Compile Include="Beans\JugadorComparerGUI.cs" />
+    <Compile Include="Comandos\AssistantCoach.cs" />
+    <Compile Include="Comandos\BlueCardTeamCommand.cs" />
+    <Compile Include="Comandos\EmptyGoalCommand.cs" />
+    <Compile Include="Comandos\ExclusionCommand.cs" />
+    <Compile Include="Comandos\FieldThrowsCommand.cs" />
+    <Compile Include="Comandos\LocalizadorCommand.cs" />
+    <Compile Include="Comandos\ParadaTiroCommand.cs" />
+    <Compile Include="Comandos\PerdidaCommand.cs" />
+    <Compile Include="Comandos\TimeOutCommand.cs" />
+    <Compile Include="Comandos\TiroCommand.cs" />
+    <Compile Include="Comandos\TurnoversCommand.cs" />
+    <Compile Include="Comandos\AttacksCommand.cs" />
+    <Compile Include="Comandos\BlueCardCommand.cs" />
+    <Compile Include="Comandos\CoachCommand.cs" />
+    <Compile Include="Comandos\EstadisticasCommand.cs" />
+    <Compile Include="Comandos\FastbreaksCommand.cs" />
+    <Compile Include="Comandos\GroupStandingCommand.cs" />
+    <Compile Include="Comandos\ICommandImmediateExecutable.cs" />
+    <Compile Include="Comandos\NextTransmissionCommand.cs" />
+    <Compile Include="Beans\Schedule.cs" />
+    <Compile Include="Comandos\ScheduleCommand.cs" />
+    <Compile Include="Comandos\TeamLayout3dCommand.cs" />
+    <Compile Include="Comandos\YellowCardTeamCommand.cs" />
+    <Compile Include="Comandos\RedCardTeamCommand.cs" />
+    <Compile Include="Comandos\TiroFueraCommand.cs" />
+    <Compile Include="Comandos\GolPenaltyCommand.cs" />
+    <Compile Include="Comandos\RefereesCommand.cs" />
+    <Compile Include="Comandos\ExtraTimeCommand.cs" />
+    <Compile Include="Comandos\ICommand.cs" />
+    <Compile Include="Comandos\ICommandShowable.cs" />
+    <Compile Include="Comandos\IdentificationCommand.cs" />
+    <Compile Include="Comandos\ICommandComparer.cs" />
+    <Compile Include="Comandos\StatisticsTableCommand.cs" />
+    <Compile Include="Comandos\ParadaCommand.cs" />
+    <Compile Include="Comandos\TiroAPuertaCommand.cs" />
+    <Compile Include="Comandos\RedCardCommand.cs" />
+    <Compile Include="Comandos\GolCommand.cs" />
+    <Compile Include="Comandos\PlayerCommand.cs" />
+    <Compile Include="Comandos\TeamsReservesCommand.cs" />
+    <Compile Include="Comandos\TeamReservesCommand.cs" />
+    <Compile Include="Comandos\TeamLineUpCommand.cs" />
+    <Compile Include="Consola.cs" />
+    <Compile Include="Controlador.cs" />
+    <Compile Include="Interfaz\Console_Conexions_Branch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\Console_Conexions_Branch.Designer.cs">
+      <DependentUpon>Console_Conexions_Branch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\CustomNumeric.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Interfaz\CustomNumeric.designer.cs">
+      <DependentUpon>CustomNumeric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\EditEstadisticasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\EditEstadisticasForm.Designer.cs">
+      <DependentUpon>EditEstadisticasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\GolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\GolForm.Designer.cs">
+      <DependentUpon>GolForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\GroupStandingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\GroupStandingForm.Designer.cs">
+      <DependentUpon>GroupStandingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\InfoCrawlerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\InfoCrawlerForm.Designer.cs">
+      <DependentUpon>InfoCrawlerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\LocalizadorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\LocalizadorForm.designer.cs">
+      <DependentUpon>LocalizadorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\NextTrasmissionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\NextTrasmissionForm.Designer.cs">
+      <DependentUpon>NextTrasmissionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\ScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\ScheduleForm.Designer.cs">
+      <DependentUpon>ScheduleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\SeleccionIpf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\SeleccionIpf.Designer.cs">
+      <DependentUpon>SeleccionIpf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interprete.cs" />
+    <Compile Include="Loader.cs" />
+    <Compile Include="Interfaz\DBLayoutPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Penaltis.cs" />
+    <Compile Include="Interfaz\ConfigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\ConfigForm.Designer.cs">
+      <DependentUpon>ConfigForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\ExtraForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\ExtraForm.Designer.cs">
+      <DependentUpon>ExtraForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\LoaderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\LoaderForm.Designer.cs">
+      <DependentUpon>LoaderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\PenaltisPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Interfaz\PenaltisPanel.Designer.cs">
+      <DependentUpon>PenaltisPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\PenaltisPanelItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Interfaz\PenaltisPanelItem.Designer.cs">
+      <DependentUpon>PenaltisPanelItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\ConfigData.cs" />
+    <Compile Include="Persistencia\PlantillasData.cs" />
+    <Compile Include="Persistencia\EncuentroData.cs" />
+    <Compile Include="Persistencia\IdiomaData.cs" />
+    <Compile Include="Persistencia\PersistenciaUtil.cs" />
+    <Compile Include="Interfaz\PlantillaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\PlantillaForm.Designer.cs">
+      <DependentUpon>PlantillaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\OnAirListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Interfaz\TiempoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\TiempoForm.Designer.cs">
+      <DependentUpon>TiempoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Posesion.cs" />
+    <Compile Include="Momento.cs" />
+    <Compile Include="Comandos\PresentationCommand.cs" />
+    <Compile Include="Comandos\ScoreBoardCommand.cs" />
+    <Compile Include="Comandos\TeamLayoutCommand.cs" />
+    <Compile Include="Comandos\YellowCardCommand.cs" />
+    <Compile Include="Comandos\StatisticsCommand.cs" />
+    <Compile Include="Comandos\FreeTextCommand.cs" />
+    <Compile Include="Comandos\ICommandExecutable.cs" />
+    <Compile Include="Crono.cs" />
+    <Compile Include="InterfaceIPF.cs" />
+    <Compile Include="Interfaz\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comandos\AccesoBD\DummyData.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Interfaz\ConfigForm.resx">
+      <DependentUpon>ConfigForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\Console_Conexions_Branch.resx">
+      <DependentUpon>Console_Conexions_Branch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\EditEstadisticasForm.resx">
+      <DependentUpon>EditEstadisticasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\GolForm.resx">
+      <DependentUpon>GolForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\GroupStandingForm.resx">
+      <DependentUpon>GroupStandingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\InfoCrawlerForm.resx">
+      <DependentUpon>InfoCrawlerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\LocalizadorForm.resx">
+      <DependentUpon>LocalizadorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\NextTrasmissionForm.resx">
+      <DependentUpon>NextTrasmissionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\ExtraForm.resx">
+      <DependentUpon>ExtraForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\LoaderForm.resx">
+      <DependentUpon>LoaderForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\PenaltisPanel.resx">
+      <DependentUpon>PenaltisPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\PenaltisPanelItem.resx">
+      <DependentUpon>PenaltisPanelItem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\PlantillaForm.resx">
+      <DependentUpon>PlantillaForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\ScheduleForm.resx">
+      <DependentUpon>ScheduleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\SeleccionIpf.resx">
+      <DependentUpon>SeleccionIpf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\TiempoForm.resx">
+      <DependentUpon>TiempoForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BalonBotaA-OFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BalonBotaA-ON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BalonBotaB-OFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BalonBotaB-ON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Balon-OFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Balon-ON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-select-all.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reloj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flecha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Encabezamiento_Api.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_football.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_Virtualia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Web.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_bg_v.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\app.manifest" />
+    <None Include="Resources\vuelta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crono2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\DataSources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Balonmano_Setup_App.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

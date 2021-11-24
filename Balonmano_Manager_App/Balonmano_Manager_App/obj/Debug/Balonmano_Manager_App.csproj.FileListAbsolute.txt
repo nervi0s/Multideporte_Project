@@ -1,0 +1,121 @@
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\bin\Debug\Balonmano_Manager_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\bin\Debug\Balonmano_Manager_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\bin\Debug\Balonmano_Manager_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\bin\Debug\EntityFramework.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\bin\Debug\EntityFramework.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.ConfigForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.Console_Conexions_Branch.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.GolForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.GroupStandingForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.InfoCrawlerForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.NextTransmissionForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.ExtraForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.LoaderForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.PenaltisPanel.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.PlantillaForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.MainForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.ScheduleForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.SeleccionIpf.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.TiempoForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Properties.Resources.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csproj.GenerateResource.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csproj.CopyComplete
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Balonmano\Manager App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csprojAssemblyReference.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\Balonmano_Manager_App.exe.config
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\Balonmano_Manager_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\Balonmano_Manager_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\EntityFramework.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\EntityFramework.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.ConfigForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.Console_Conexions_Branch.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.EditEstadisticasForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.GolForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.GroupStandingForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.InfoCrawlerForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.NextTransmissionForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.ExtraForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.LoaderForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.PenaltisPanel.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.PenaltisPanelItem.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.PlantillaForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.MainForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.ScheduleForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.SeleccionIpf.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.TiempoForm.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Properties.Resources.resources
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csproj.GenerateResource.cache
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csproj.CopyComplete
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.exe
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\Balonmano_Manager_App.exe.config
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\Balonmano_Manager_App.exe
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\Balonmano_Manager_App.pdb
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\EntityFramework.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.Console_Conexions_Branch.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.GolForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.GroupStandingForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.InfoCrawlerForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.NextTransmissionForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.MainForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.ScheduleForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.exe
+C:\Users\David\Desktop\last\MULTIDEPORTE\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.pdb
+D:\Produccion-SVN\Desarrollos\Software Deportes\Multideporte\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\Balonmano_Manager_App.exe.config
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\Balonmano_Manager_App.exe
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\Balonmano_Manager_App.pdb
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\EntityFramework.xml
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.ConfigForm.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.Console_Conexions_Branch.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.EditEstadisticasForm.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.GolForm.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.GroupStandingForm.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.InfoCrawlerForm.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.LocalizadorForm.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.NextTransmissionForm.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.ExtraForm.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.LoaderForm.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.PenaltisPanel.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.PenaltisPanelItem.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.PlantillaForm.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.MainForm.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.ScheduleForm.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.SeleccionIpf.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Interfaz.TiempoForm.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.Properties.Resources.resources
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.csproj.CopyComplete
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.exe
+C:\Users\David\Desktop\Manager App\Balonmano_Manager_App\Balonmano_Manager_App\obj\Debug\Balonmano_Manager_App.pdb

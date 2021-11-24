@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IdiomaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">	
+	<Coach>Coach</Coach>
+	<Coaches>Coach</Coaches>
+	<AssistantCoach>Assistant coach</AssistantCoach>
+	<Reserves>SUBSTITUTES</Reserves>	
+	<Statistics>Statistics</Statistics>
+	<TimeOut>Timeout</TimeOut>
+	<EmptyGoal>Empty Goal</EmptyGoal>
+	
+	<Goal>Goal</Goal>
+	<Goals>Goals</Goals>
+	<Kick>Attempt</Kick>
+	<Kicks>Total Attempts</Kicks>
+	<KickintoGoal>Attempt On target</KickintoGoal>
+	<KicksintoGoal>Attempts On target</KicksintoGoal>
+  	<KickIn>Attempt on target</KickIn>
+  	<KicksIn>Attempts on target</KicksIn>
+  	<TotalKick>Total Attempts</TotalKick>
+  	<TotalKicks>Total Attempts</TotalKicks>
+	<Attempt>Attempt</Attempt>
+	<Attempts>Attempts</Attempts>
+	<AttemptIn>Attempt on goal</AttemptIn>
+	<AttemptsIn>Attempts on goal</AttemptsIn>
+	<IntoGoal>Attempts on target</IntoGoal>	
+	<GoalkeeperSave>Goalkeeper Save</GoalkeeperSave>
+	<GoalkeeperSaves>Goalkeeper Saves</GoalkeeperSaves>
+	<Possesion>Ball Possession</Possesion>
+	<Tiros>Total throws</Tiros>
+	<Tiros_Campo>Fill throws</Tiros_Campo>
+	<Tiros_7M>Tiros de 7 metros</Tiros_7M>
+	<Tiros_Contraataque>Contraataques</Tiros_Contraataque>
+	<Perdidas>Pérdidas</Perdidas>
+	<Attacks>Attacks</Attacks>
+	<Blocajes>Blocajes</Blocajes>
+	<Exclusions>Exclusions</Exclusions>
+	<ExclusionsMins>Exclusions (MIN)</ExclusionsMins>
+	<Exclusion_Time>2 MIN -</Exclusion_Time>
+	<Exclusion_Ordinal1>st</Exclusion_Ordinal1>
+	<Exclusion_Ordinal2>nd</Exclusion_Ordinal2>
+	<Exclusion_Ordinal3>rd</Exclusion_Ordinal3>
+	<Exclusion_Ordinal4>th</Exclusion_Ordinal4>
+	<Exclusion_Text>2 MINUTES SUSPENSION</Exclusion_Text>
+	
+	<GoalMatch>Goals:</GoalMatch>
+	<GoalsMatch>Goals:</GoalsMatch>
+	<ShotMatch>Shot in this Match</ShotMatch>
+	<ShotsMatch>Shots in this Match</ShotsMatch>
+	<SaveMatch>Save in this Match</SaveMatch>
+	<SavesMatch>Saves in this Match</SavesMatch>	
+	<GoalPerMatch>Goal in</GoalPerMatch>
+	<GoalsPerMatch>Goals in</GoalsPerMatch>
+	<Matches>matches</Matches>
+	<Match>match</Match>
+	<YellowCardMatch>Yellow card in this Match</YellowCardMatch>
+	<YellowCardsMatch>Yellow cards in this Match</YellowCardsMatch>	
+	<RedCardMatch>Sent Off</RedCardMatch>
+	<RedCardsMatch>Red cards in this Match</RedCardsMatch>
+	<BlueCardMatch>Blue card in this Match</BlueCardMatch>
+	<BlueCardsMatch>Blue cards in this Match</BlueCardsMatch>
+	
+	<YellowCard>Yellow Card</YellowCard>
+	<YellowCards>Yellow Cards</YellowCards>
+	<YellowSingleCard>Yellow Card</YellowSingleCard>
+	<RedCard>Red Card</RedCard>
+	<RedCards>Red Cards</RedCards>
+	<RedSingleCard>Red Card</RedSingleCard>
+	<BlueCard>Blue Card</BlueCard>
+	<BlueCards>Blue Cards</BlueCards>
+	
+	<Officials>Referees</Officials>
+	<Referee>Referee</Referee>
+	
+	<P>(p)</P>
+	<Parte1>1st half</Parte1>
+	<FinParte1>half-time</FinParte1>
+	<Parte2>2nd half</Parte2>
+	<FinParte2>End second half</FinParte2>	
+	<Prorroga1_parte1>1st half first extra-time</Prorroga1_parte1>
+	<FinProrroga1_parte1>End 1st half first extra-time</FinProrroga1_parte1>
+	<Prorroga1_parte2>2nd half first extra-time</Prorroga1_parte2>
+	<FinProrroga1_parte2>End 2nd half first extra-time</FinProrroga1_parte2>	
+	<Prorroga2_parte1>1st half second extra-time</Prorroga2_parte1>
+	<FinProrroga2_parte1>End 1st half second extra-time</FinProrroga2_parte1>
+	<Prorroga2_parte2>2nd half second extra-time</Prorroga2_parte2>
+	<FinProrroga2_parte2>End 2st half second extra-time</FinProrroga2_parte2>	
+	<Prorroga1>1st half extra-time</Prorroga1>
+	<FinProrroga1>End first extra</FinProrroga1>
+	<Prorroga2>2nd half extra-time</Prorroga2>
+	<FinProrroga2>After extra time</FinProrroga2>	
+	<FinPartido>Full time</FinPartido>	
+	<Penaltis>Penalties</Penaltis>
+	
+	<Goalkeeper>Goalkeeper</Goalkeeper>
+	<Extremo>Extremo</Extremo>
+	<ExtremoDerecho>Extremo derecho</ExtremoDerecho>
+	<ExtremoIzquierdo>Extremo izquierdo</ExtremoIzquierdo>
+	<Lateral>Lateral</Lateral>
+	<LateralDerecho>Lateral derecho</LateralDerecho>
+	<LateralIzquierdo>Lateral izquierdo</LateralIzquierdo>
+	<Central>Central</Central>
+	<Pivote>Pivote</Pivote>
+	<GK>(GK)</GK>
+	<CP>(C)</CP>		
+</IdiomaData>

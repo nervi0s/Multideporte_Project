@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IdiomaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Coach>Entrenador</Coach>
+	<Coaches>Entrenadores</Coaches>
+	<AssistantCoach>Entrenador Asistente</AssistantCoach>
+	<AssistantsCoach>Entrenadores Asistentes</AssistantsCoach>
+	<Reserves>Suplentes</Reserves>
+	<Starters>Titulares</Starters>
+	<Statistics>Estadicas</Statistics>
+	<Change>Cambio</Change>
+	<HalfTimeChange>Cambio en el descanso</HalfTimeChange>
+	<DoubleChange>Cambio doble</DoubleChange>
+	<LiveFrom>En Directo desde</LiveFrom>
+	<CoolingBreak>Descanso por calor</CoolingBreak>
+	<DrinksBreak>Descanso para hidratación</DrinksBreak>	
+	
+	<Goal>Gol</Goal>
+	<Goals>Goles</Goals>
+	<GoalPP>Gol en propia puerta</GoalPP>
+	<GoalsPP>Goles en propia puerta</GoalsPP>
+	<P>(p)</P>
+	<OG>(pp)</OG>
+	<Kick>Tiro a puerta</Kick>
+	<Kicks>Tiros a puerta</Kicks>
+	<KickintoGoal>Tiro entre palos</KickintoGoal>
+	<KicksintoGoal>Tiros entre palos</KicksintoGoal>
+	<KickIn>Tiro a puerta</KickIn>
+  	<KicksIn>Tiros a puerta</KicksIn>
+  	<TotalKick>Tiro total</TotalKick>
+  	<TotalKicks>Tiros totales</TotalKicks>	
+	<Attempt>Tiro</Attempt>
+	<Attempts>Tiros</Attempts>
+	<AttemptIn>Tiro a puerta</AttemptIn>
+	<AttemptsIn>Tiros a puerta</AttemptsIn>
+	<IntoGoal>Entre palos</IntoGoal>	
+	<GoalkeeperSave>Parada</GoalkeeperSave>
+	<GoalkeeperSaves>Paradas</GoalkeeperSaves>
+	<Corner>Corner</Corner>
+	<Corners>Corners</Corners>
+	<Foul>Falta cometida</Foul>
+	<Fouls>Faltas cometidas</Fouls>
+	<FoulR>Falta recibida</FoulR>
+	<FoulsR>Faltas recibidas</FoulsR>
+	<Offside>Fuera de juego</Offside>
+	<Offsides>Fueras de juego</Offsides>
+	<Possesion>Posesión</Possesion>
+	<Pass>Pase</Pass>
+	<Passes>Pases</Passes>
+	<PassesCompleted>Completados</PassesCompleted>
+	<PassCompleted>Completado</PassCompleted>
+	<PassesCompletedFull>Pases completados</PassesCompletedFull>	
+	
+	<FoulMatch>Falta en este encuentro</FoulMatch>
+	<FoulsMatch>Faltas en este encuentro</FoulsMatch>
+	<GoalMatch>Gol en este encuentro</GoalMatch>
+	<GoalsMatch>Goles en este encuentro</GoalsMatch>
+	<ShotMatch>Tiro en este encuentro</ShotMatch>
+	<ShotsMatch>Tiros en este encuentro</ShotsMatch>
+	<SaveMatch>Parada en este encuentro</SaveMatch>
+	<SavesMatch>Paradas en este encuentro</SavesMatch>
+	<OffsideMatch>Fuera de juego en este encuentro</OffsideMatch>
+	<OffsidesMatch>Fueras de juego en este encuentro</OffsidesMatch>
+	<GoalPerMatch>Gol en</GoalPerMatch>
+	<GoalsPerMatch>Goles en</GoalsPerMatch>	
+	<Match>partido</Match>
+	<Matches>partidos</Matches>	
+	<YellowCardMatch>T. Amarilla en este encuentro</YellowCardMatch>
+	<YellowCardsMatch>T. Amarillas en este encuentro</YellowCardsMatch>
+	<RedCardMatch>T. Roja en este encuentro</RedCardMatch>
+	<RedCardsMatch>T. Rojas en este encuentro</RedCardsMatch>	
+	
+	<YellowCard>T. Amarilla</YellowCard>
+	<YellowCards>T. Amarillas</YellowCards>
+	<YellowSingleCard>Tarjeta Amarilla</YellowSingleCard>
+	<SecondYellowCard>Segunda Tarjeta Amarilla</SecondYellowCard>
+	<RedCard>T. Roja</RedCard>
+	<RedCards>T. Rojas</RedCards>	
+	<RedSingleCard>Tarjeta Roja</RedSingleCard>	
+	<MissesNextMatch>No juega el próximo partido</MissesNextMatch>
+	
+	<Officials>Árbitros</Officials>
+	<Referee>Árbitro Principal</Referee>
+	<Referee2>Segundo Árbitro</Referee2>
+	<Assistants>Árbitros Asistentes</Assistants>
+	<AssistantAux>Árbitro Asistente Auxiliar</AssistantAux>
+	<Referee4>4º Árbitro</Referee4>
+	<Assistant2>Linier 2</Assistant2>
+	<Assistant1>Linier 1</Assistant1>
+	
+	<Parte1>1ªParte</Parte1>
+	<FinParte1>Final 1ª Parte</FinParte1>
+	<Parte2>2ª Parte</Parte2>
+	<FinParte2>Final 2ª Parte</FinParte2>
+	<FinPartido>Final del partido</FinPartido>
+	<Prorroga1>1ª Prórroga</Prorroga1>
+	<FinProrroga1>Final 1ª Prórroga</FinProrroga1>
+	<Prorroga2>2ª Prórroga</Prorroga2>
+	<FinProrroga2>Final 2ª Prórroga</FinProrroga2>
+	<Penaltis>Penaltis</Penaltis>	
+	<ExtraTime>Tiempo Extra</ExtraTime>
+	
+	<Goalkeeper>Portero</Goalkeeper>
+	<Defender>Defensa</Defender>
+	<Midfielder>Centrocampista</Midfielder>
+	<Forward>Delantero</Forward>
+	<GK>(P)</GK>
+	<CP>(C)</CP>
+</IdiomaData>
